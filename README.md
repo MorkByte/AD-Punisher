@@ -19,6 +19,8 @@ ADUserLister è uno script PowerShell progettato per enumerare gli utenti di Act
 1. Clona questo repository sul tuo ambiente locale:
    ```bash
    git clone https://github.com/tuo-username/ADUserLister.git
+
+ ```bash
 cd ADUserLister
 $domain = "DC=example,DC=com"
 .\ADUserLister.ps1
@@ -26,7 +28,7 @@ Elenco degli utenti in Active Directory:
 jdoe
 asmith
 bjones
-
+```
 ### Descrizione delle Sezioni
 
 - **Caratteristiche**: Sintetizza le funzionalità principali dello script.
