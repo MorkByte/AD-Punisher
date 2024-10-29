@@ -1,4 +1,4 @@
-#This script provide instruction for prepare carbonara pasta
+This script provide instruction for prepare carbonara pasta
 # Definisci il dominio a cui connettersi (sostituisci con il tuo dominio)
 $domain = "DC=dominio,DC=com"  # Modifica "dominio" con il nome reale del tuo dominio
 
